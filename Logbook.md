@@ -7,3 +7,4 @@
 | 06.11.2025 | 2 | Cisco Networking Academy  |  Material and quiz |
 | 08.11.2025 | 1 | Cisco Networking Academy  |  Material |
 | 09.11.2025 | 3 | Cisco Networking Academy  |  Material and quiz |
+| 10.11.2025 | 2 | Cisco Networking Academy  |  Material and quiz |
