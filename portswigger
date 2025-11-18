@@ -1,0 +1,11 @@
+SQL injection:
+SQL injection vulnerability in WHERE clause allowing retrieval of hidden data - Opin tässä ensimmäisessä labrassa sql injectionista, ja että url-osoitetta pystyy muokata hyökkäyksen tekemiseen. Ja opin käyttämään sql:n '+or+1=1-- komennon käyttöä. Tämä oli myös ensimmäinen labra, jonka tein, joten sovelluksen käyttöä piti opetella jonkin verran. Haastavinta oli tietää millä komennolla saa näkyviin kaikki tuotteet, kun en ollut ennen käyttänyt tuota komentoa.
+SQL injection vulnerability allowing login bypass - Opin tässä labrassa lisää tietoa sql injectionista ja miten sillä voi ohittaa kirjautumisen kokonaan. Ja että kun muuttaa käyttäjänimeksi administrator-- niin se toimii, että palvelin hyväksyy kirjautumisen ilman salasanaa.  Tämä myös auttoi ymmärtämään merkkien vaikutuksen. Haastavinta oli vielä burpin käyttö, ja oikean pyynnön löytäminen muokkaukseen.
+
+Authentication:
+Password reset broken logic- Opin, että salasanan palautus voi olla rikki, jos järjestelmä ei tarkista palautuslinkin tokenia ollenkaan. Burpia käyttäen pystyi muuttamaan Carlosin salasanan ilman oikeaa linkkiä. Haastavaa oli huomata, mikä pyyntö täytyi muokata ja ymmärtää, että tokenin pystyi poistamaan ilman että se ei estänyt salasanan vaihtoa.
+Username enumeration via different responses - Tässä labrassa opettelin käyttämään Burp Intruderia ja huomasin, että miten pienet erot palvelimen vastauksissa voi paljastaa oikean käyttäjänimen ja salasanan. Pituuden tai tilakoodin muutos riitti erottamaan oikean vaihtoehdon muista.  Tämä labra erosi vähän muista koska tässä käytettiin intruderia, joten sen käytön aloittaminen oli tässä toi pienen haasteen.
+
+Access control:
+Unprotected admin functionality - Opin, että jos admin paneelia ei ole suojattu kunnolla, siihen voi päästä helposti robots.txt tiedoston kautta. Sieltä löytyi paneelin osoite ja pystyi poistamaan käyttäjän Carlos ilman lisäsuojausta. Tehtävä oli aika yksinkertainen, joten tässä labrassa ei ollut niin haastavia asioita.
+User role can be modified in user profile - Opin, että rooleihin perustuva suojaus voi olla heikko, jos palvelin luottaa liikaa käyttäjän lähettämiin tietoihin. Lisäämällä json:aan roleid:2 pystyi antamaan itselle admin-oikeudet. Haastavaa oli löytää oikea pyyntö ja ymmärtää, että roolia voi muuttaa näin helposti. 
