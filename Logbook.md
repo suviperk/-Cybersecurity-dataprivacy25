@@ -10,4 +10,6 @@
 | 10.11.2025 | 2 | Cisco Networking Academy  |  Material and quiz |
 | 15.11.2025 | 2 | lecture and selfstudy  |  Material |
 | 17.11.2025 | 4 | Portswigger |  Material and labs |
-| 18.11.2025 | 5 | Portswiger  |  Material and labs |
+| 18.11.2025 | 5 | Portswigger  |  Material and labs |
+| 21.11.2025 | 2 | Lectures |  Penetration testing and Docker and phase1 |
+| 24.11.2025 | 4 | Penetration testing  |  Phase1 part1 |
