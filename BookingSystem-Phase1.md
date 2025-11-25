@@ -56,7 +56,8 @@
 |------|-----------|----------|--------------|------------------|
 | F-01 | 🔴 High | SQL Injection in registration | Input field allows `' OR '1'='1` injection | Screenshot or sqlmap result |
 | F-02 | 🟠 Medium | Session fixation | Session ID remains unchanged after login | Burp log or response headers |
-| F-03 | 🟡 Low | Weak password policy | Accepts passwords like "12345" | Screenshot of registration success |
+| F-03 | 🟡 Low | Weak password policy | Accepts passwords like "12345" | <img width="803" height="22" alt="image" src="https://github.com/user-attachments/assets/45043a08-258e-4418-87ce-9a6718285449" />
+ |
 
 ---
 
