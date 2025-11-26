@@ -13,7 +13,7 @@
 
 **Test environment & dates:**  
 - Start:  22.11.22025
-- End:  25.11.2025
+- End:  26.11.2025
 - Test environment details (OS, runtime, DB, browsers): Docker, ZAP, Powershell
 
 **Assumptions & constraints:**  
