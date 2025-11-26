@@ -14,3 +14,4 @@
 | 21.11.2025 | 2 | Lectures |  Penetration testing and Docker and phase1 |
 | 24.11.2025 | 4 | Penetration testing  |  Phase1 part1 |
 | 25.11.2025 | 5 | Penetration testing  |  Phase1 part1 |
+| 26.11.2025 | 1 | Phase1 part1  |  Phase1 part1 |
