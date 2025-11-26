@@ -71,7 +71,7 @@
 # 5️⃣ OWASP ZAP Test Report (Attachment)
 
 **Purpose:**  
-- Attach or link your OWASP ZAP scan results (Markdown format preferred).
+https://github.com/suviperk/-Cybersecurity-dataprivacy25/blob/main/ZAP%20report.md 
 
 ---
 
