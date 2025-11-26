@@ -54,9 +54,8 @@
 
 | ID | Severity | Finding | Description | Evidence / Proof |
 |------|-----------|----------|--------------|------------------|
-| F-01 | 🔴 High | SQL Injection in registration | Input field allows `' OR '1'='1` injection | Screenshot or sqlmap result |
-| F-02 | 🟠 Medium | Session fixation | Session ID remains unchanged after login | Burp log or response headers |
-| F-03 | 🟡 Low | Weak password policy | Accepts passwords like "12345" | <img width="1433" height="36" alt="image" src="https://github.com/user-attachments/assets/d4c8c8c4-ee3b-4c82-9383-b6f097fe938a" />
+| F-01 | 🔴 High | SQL Injection in registration | Input field allows `' OR '1'='1` injection | Ei sql injection havaintoja vaikka yritin sähköpostiin ja salasanaan |
+| F-02 | 🟡 Low | Weak password policy | Accepts passwords like "12345" | <img width="1433" height="36" alt="image" src="https://github.com/user-attachments/assets/d4c8c8c4-ee3b-4c82-9383-b6f097fe938a" />
 
  |
 
