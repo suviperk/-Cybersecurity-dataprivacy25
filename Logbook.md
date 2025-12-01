@@ -15,4 +15,4 @@
 | 24.11.2025 | 4 | Penetration testing  |  Phase1 part1 |
 | 25.11.2025 | 5 | Penetration testing  |  Phase1 part1 |
 | 26.11.2025 | 1 | Phase1 part1  |  Phase1 part1 |
-| 01.12.2025 | 2 | Lecture  |  Phase1 part2 |
+| 01.12.2025 | 2,5 | Lectures  |  Phase1 part2 |
