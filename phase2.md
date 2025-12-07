@@ -4,13 +4,13 @@
 
 John the Ripper mursi seuraavat MD5-hashit käyttäen sanalistaa `rockyou.txt`:
 
-| Käyttäjä | Salasana |
-|-----------|----------|
-| user1    | iamironman |
-| user2    | carrots123 |
-| user3    | donuts4life |
-| user4    | darkside42 |
-| ...      | ...       |
+| Salasana |
+|----------|
+| iamironman |
+| carrots123 |
+| donuts4life |
+| darkside42 |
+| ...       |
 
 ## 2. Screenshot murtamisesta
 
