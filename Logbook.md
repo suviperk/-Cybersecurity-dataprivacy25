@@ -17,3 +17,5 @@
 | 26.11.2025 | 1 | Phase1 part1  |  Phase1 part1 |
 | 01.12.2025 | 2 | Lecture  |  Phase1 part2 |
 | 01.-02.12.2025 | 4 | Phase1 part2  |  Phase1 part2 |
+| 07.12.2025 | 2 | Lectures  |  Phase2 |
+
