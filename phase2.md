@@ -2,8 +2,7 @@
 
 ## 1. Murretut salasanat
 
-Käytin tehtävässä työkaluna: John the Ripper
-Ja käyttäen sanalistaa `rockyou.txt`:
+Käytin tehtävässä työkaluna: John the Ripper, käyttäen sanalistaa `rockyou.txt`:
 
 | Salasana |
 |----------|
@@ -11,7 +10,6 @@ Ja käyttäen sanalistaa `rockyou.txt`:
 | carrots123 |
 | donuts4life |
 | darkside42 |
-| ...       |
 
 ## 2. Screenshot murtamisesta
 
