@@ -1,36 +1,27 @@
 # Password Cracking – Phase 2
 
-## 1. Murretut salasanat
+## Murretut salasanat
 
-Käytin tehtävässä työkaluna: John the Ripper, käyttäen sanalistaa `rockyou.txt`:
+Käytin tehtävässä työkaluna: John the Ripper, käyttäen sanalistaa `rockyou.txt`. Nämä salasanat olivat aika helppoja murtaa, kunhan sai työkalut toimintaan.
 
-| Salasana |
+| Salasanat |
 |----------|
 | iamironman |
 | carrots123 |
 | donuts4life |
 | darkside42 |
 
-## 2. Screenshot murtamisesta
+## Screenshot murtamisesta
 
 ![Johnin tulokset](kuva.PNG)
 
 
-## 3. Teoriakysymykset
+## Teoriakysymykset
 
-### 3.1 Mikä ero on dictionary- ja non-dictionary-hyökkäyksillä?
+- Dictionary attacks= kokeillaan valmiista sanalistasta löytyviä salasanoja, nopea tapa.
+- Non-dictionary = kokeillaan mahdollisia merkkiyhdistelmiä, hitaampi mutta varmempi tapa.
 
-- **Dictionary attack:** kokeillaan valmiista sanalistasta löytyviä salasanoja, nopea jos salasana on yleinen.
-- **Non-dictionary (brute-force):** kokeillaan kaikkia mahdollisia yhdistelmiä, hidas mutta varma tapa löytää mikä tahansa salasana.
+- Hashien avulla hyökkääjä voi murtaa salasanat jopa offline-tilassa. Ja siten pääsee käsiksi käyttäjätileihin, kun salasana on murrettu.
 
-### 3.2 Hyöty, jos hyökkääjä saa hashit ja käyttäjätiedot
-
-- Hashien avulla salasanoja voi murtaa offline.
-- Ei tarvita käyttäjän järjestelmää.
-- Pääsee käsiksi käyttäjätileihin, kun salasana murretaan.
-
-### 3.3 Pitkien salasanojen hyödyt
-
-- Lisää merkittävästi mahdollisia yhdistelmiä → vaikeampi murtaa brute-force‑menetelmällä.
-- Pidemmät salasanat tarjoavat enemmän entropyä → turvallisemmat.
+- Pitkissä salasanoissa on hyötynä se, että niitä on vaikeampi murtaa. Mitä pidempi salasana on niin sitä vaikeampaa murtaminen on.
 
