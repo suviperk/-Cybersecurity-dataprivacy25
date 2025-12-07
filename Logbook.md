@@ -18,4 +18,4 @@
 | 01.12.2025 | 2 | Lecture  |  Phase1 part2 |
 | 01.-02.12.2025 | 4 | Phase1 part2  |  Phase1 part2 |
 | 07.12.2025 | 2 | Lectures  |  Phase2 |
-
+| 07.12.2025 | 3,5 | Phase2  |  Password cracking |
