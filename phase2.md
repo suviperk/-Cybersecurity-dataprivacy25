@@ -2,7 +2,8 @@
 
 ## 1. Murretut salasanat
 
-John the Ripper mursi seuraavat MD5-hashit käyttäen sanalistaa `rockyou.txt`:
+Käytin tehtävässä työkaluna: John the Ripper
+Ja käyttäen sanalistaa `rockyou.txt`:
 
 | Salasana |
 |----------|
@@ -16,7 +17,6 @@ John the Ripper mursi seuraavat MD5-hashit käyttäen sanalistaa `rockyou.txt`:
 
 ![Johnin tulokset](kuva.PNG)
 
-*Yllä näkyy Johnin ajon tulokset, jossa kaikki hashit luettiin ja salasanat murrettiin.*
 
 ## 3. Teoriakysymykset
 
