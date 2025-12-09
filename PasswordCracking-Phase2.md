@@ -14,6 +14,7 @@ Käytin tehtävässä työkaluna: John the Ripper, käyttäen sanalistaa `rockyo
 ## Screenshot murtamisesta
 
 ![Johnin tulokset](kuva1.PNG)
+![johnin tulokset](image.png)
 
 
 ## Teoriakysymykset
