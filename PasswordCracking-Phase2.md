@@ -15,6 +15,7 @@ Käytin tehtävässä työkaluna: John the Ripper, käyttäen sanalistaa `rockyo
 
 ![Johnin tulokset](kuva1.PNG)
 ![johnin tulokset](image.png)
+![kuva2](kuva2.png)
 
 
 ## Teoriakysymykset
