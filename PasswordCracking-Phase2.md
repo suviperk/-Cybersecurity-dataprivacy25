@@ -2,7 +2,11 @@
 
 ## Murretut salasanat
 
-Käytin tehtävässä työkaluna: John the Ripper, käyttäen sanalistaa `rockyou.txt`. Nämä salasanat olivat aika helppoja murtaa, kunhan sai työkalut toimintaan.
+Käytin tehtävässä työkaluna: John the Ripper.
+
+Ensimmäisten salasanojen kohdalla käytin dictionary attack hyökkäystä, jossa käytin sanalistaa `rockyou.txt`. 
+
+Ja kahdessa viimeisessä hyökkäyksessä käytin mask attack hyökkäystä, jossa käytetään oikeanlaista komentoa, kun tiedetään sanan alkua/loppua ja muita merkkejä.
 
 | Salasanat |
 |----------|
@@ -10,6 +14,8 @@ Käytin tehtävässä työkaluna: John the Ripper, käyttäen sanalistaa `rockyo
 | carrots123 |
 | donuts4life |
 | darkside42 |
+| deduction221B |
+| chaos123! |
 
 ## Screenshot murtamisesta
 
