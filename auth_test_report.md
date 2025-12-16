@@ -6,7 +6,7 @@
 - Näkee julkiset varaukset etusivulla / -spec.8
 - Pääsee /login ja /register sivuille
 - Pääsee tekemään uuden resources /resources
-- Näkee varaukset listana /api/reservations 
+- Näkee varaukset listana /api/reservations ⚠️
 - Näkee listana /api/resources
 - Näkee käyttäjien tokenit, spostit ja roolit /api/users ⚠️
 
@@ -35,5 +35,5 @@
 - Pystyy tekemään uusia /reservation ja /resource
 
 ### ❌ Cannot do
-- Ei pysty poistaa käyttäjiä /users/delete/:id - spec.5
-- Ei näe käyttäjiä /admin/users
+- Ei pysty poistaa käyttäjiä /users/delete/:id - spec.5 ⚠️
+- Ei näe käyttäjiä /admin/users -toiminnallinen virhe
