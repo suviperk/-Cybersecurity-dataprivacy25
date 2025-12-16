@@ -20,3 +20,5 @@
 | 07.12.2025 | 2 | Lectures  |  Phase2 |
 | 07.12.2025 | 3,5 | Phase2  |  Password cracking |
 | 09.12.2025 | 1 | Phase2  |  Password cracking |
+| 13.12.2025 | 2 | Phase3  |  Authorization lectures |
+| 15.-16.12.2025 | 6 | Phase3  |  Authorization |
