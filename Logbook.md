@@ -16,7 +16,7 @@
 | 25.11.2025 | 5 | Penetration testing  |  Phase1 part1 |
 | 26.11.2025 | 1 | Phase1 part1  |  Phase1 part1 |
 | 01.12.2025 | 2 | Lecture  |  Phase1 part2 |
-| 01.-02.12.2025 | 5 | Phase1 part2  |  Phase1 part2 |
+| 01.-02.12.2025 | 4 | Phase1 part2  |  Phase1 part2 |
 | 07.12.2025 | 2 | Lectures  |  Phase2 |
 | 07.12.2025 | 5 | Phase2  |  Password cracking |
 | 09.12.2025 | 1 | Phase2  |  Password cracking |
@@ -24,4 +24,4 @@
 | 15.-16.12.2025 | 5,5 | Phase3  |  Authorization |
 | 17.12.2025 | 1,5 | Lecture  |  Final lecture |
 | | | |
-|  Total | 61     |  | 
+|  Total | 60     |  | 
