@@ -23,5 +23,7 @@
 | 13.12.2025 | 2 | Phase3  |  Authorization lectures |
 | 15.-16.12.2025 | 5,5 | Phase3  |  Authorization |
 | 17.12.2025 | 1,5 | Lecture  |  Final lecture |
+| 18.12.2025 | 1 | Raport  |  Final raport |
+| 19.12.2025 | 4 | Portswigger  |  Labs and raport |
 | | | |
-|  Total | 60     |  | 
+|  Total |     |  | 
